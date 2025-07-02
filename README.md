@@ -43,4 +43,4 @@ For any questions or inquiries, feel free to reach out to us:
 
 Let's make accurate stock price predictions together!
 
-Thank you for visiting our project repository. Happy predicting!
+Thank you for visiting my project repository. Happy predicting!
